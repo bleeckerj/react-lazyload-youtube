@@ -1,8 +1,8 @@
 {
-  "name": "react-lazyload-youtube",
+  "name": "@darthjulian/react-lazyload-youtube",
   "version": "1.0.8",
   "description": "Super lightweight LazyLoad YouTube Videos for faster page load and better performance",
-  "author": "ahakem",
+  "author": "darthjulian",
   "license": "MIT",
   "repository": "ahakem/react-lazyload-youtube",
   "main": "dist/index.js",
@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^18.3.0"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.8",
@@ -43,8 +43,8 @@
     "gh-pages": "^2.2.0",
     "npm-run-all": "^4.1.5",
     "prettier": "^2.0.4",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
     "react-scripts": "^3.4.1"
   },
   
